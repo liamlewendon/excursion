@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: verdana;
+    font-weight: normal;
+}
+.title {
+    font-size: 50px;
+    font-weight: normal;
+    
+}
+.Download {
+    color: aquamarine;
+    font-size: 16px;
+}
+.video1 {
+    align-content: center;
+}
+.travelguide {
+    font-weight: normal;
+    font-size: 42px;
+}
+p {
+font-size: 21px;
+color: grey;
+}
+.comingsoon {
+    font-weight: normal;
+}
+
+footer {
+    text-align: right;
+}
